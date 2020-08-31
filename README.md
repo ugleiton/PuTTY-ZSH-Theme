@@ -1,4 +1,4 @@
-##Thema ZSH para PuTTY client
+## Thema ZSH para PuTTY client
 
 1 - Instale a fonte Meslo LG L DZ Bold for Powerline 
 

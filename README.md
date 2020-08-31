@@ -5,3 +5,5 @@
 2 - Abra o arquivo putty-zsh.reg
 
 3 - Reinicie o Putty
+
+![screenshot Putty](https://raw.githubusercontent.com/ugleiton/PuTTY-ZSH-Theme/master/Screenshot.png)
